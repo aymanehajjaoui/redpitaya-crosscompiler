@@ -11,6 +11,10 @@ This repository contains a sysroot for cross-compiling C/C++ applications target
 ## Download
 
 You can download the latest `.deb` package from the [Releases page](https://github.com/aymanehajjaoui/redpitaya-crosscompiler/releases/latest).
+Using wget command:
+```bash
+wget https://github.com/aymanehajjaoui/redpitaya-crosscompiler/releases/download/v1.0/redpitaya-sysroot.deb
+```
 
 ## Installation
 
