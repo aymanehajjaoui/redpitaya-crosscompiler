@@ -8,6 +8,10 @@ This repository contains a sysroot for cross-compiling C/C++ applications target
 - Packaged as a `.deb` for easy installation under `/opt/redpitaya-sysroot`.
 - Compatible with ARM toolchains like `arm-linux-gnueabihf-g++`.
 
+## Download
+
+You can download the latest `.deb` package from the [Releases page](https://github.com/aymanehajjaoui/redpitaya-crosscompiler/releases/latest).
+
 ## Installation
 
 ```bash
